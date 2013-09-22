@@ -1,2 +1,2 @@
-web: gunicorn ncuva:app
-
+#web: gunicorn ncuva:app
+web: python ncuva.py
